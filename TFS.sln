@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFS", "TFS\TFS.csproj", "{FC813B0B-9938-4CB4-A754-5A3F3549998D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC813B0B-9938-4CB4-A754-5A3F3549998D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC813B0B-9938-4CB4-A754-5A3F3549998D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC813B0B-9938-4CB4-A754-5A3F3549998D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC813B0B-9938-4CB4-A754-5A3F3549998D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
